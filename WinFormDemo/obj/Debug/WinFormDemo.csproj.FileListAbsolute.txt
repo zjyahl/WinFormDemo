@@ -1,0 +1,10 @@
+G:\source\github\WinFormDemo\WinFormDemo\bin\Debug\WinFormDemo.exe
+G:\source\github\WinFormDemo\WinFormDemo\bin\Debug\WinFormDemo.pdb
+G:\source\github\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.csprojResolveAssemblyReference.cache
+G:\source\github\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.Properties.Resources.resources
+G:\source\github\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.csproj.GenerateResource.Cache
+G:\source\github\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.exe
+G:\source\github\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.pdb
+G:\source\github\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.ChildForm1.resources
+G:\source\github\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.MainForm.resources
+G:\source\github\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.ControlsFrm.resources
