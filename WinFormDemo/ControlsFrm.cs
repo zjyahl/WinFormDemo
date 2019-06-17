@@ -45,8 +45,9 @@ namespace WinFormDemo
                 btn.Name = "fetchBtn" + i;
                 btn.Text = "Fetch";
                 DataGridView dgView = new DataGridView();
-                btn.Margin = new Padding(40, 10, 0, 0);
-                dgView.Height = panel.Width;
+                // btn.Margin = new Padding(40, 10, 0, 0);
+                btn.Anchor = AnchorStyles.Left | AnchorStyles.Right;
+                dgView.Height = 100;
                 panel.Controls.Add(dgView);
                 panel.Controls.Add(btn);
                 panel.Dock = DockStyle.Bottom;
