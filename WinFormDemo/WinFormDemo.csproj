@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BindFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BindFrm.Designer.cs">
+      <DependentUpon>BindFrm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ChildForm1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +67,12 @@
     <Compile Include="ControlsFrm2.Designer.cs">
       <DependentUpon>ControlsFrm2.cs</DependentUpon>
     </Compile>
+    <Compile Include="crudFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crudFrm.Designer.cs">
+      <DependentUpon>crudFrm.cs</DependentUpon>
+    </Compile>
     <Compile Include="LayoutFrm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +87,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BindFrm.resx">
+      <DependentUpon>BindFrm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ChildForm1.resx">
       <DependentUpon>ChildForm1.cs</DependentUpon>
     </EmbeddedResource>
@@ -83,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ControlsFrm2.resx">
       <DependentUpon>ControlsFrm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crudFrm.resx">
+      <DependentUpon>crudFrm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LayoutFrm.resx">
       <DependentUpon>LayoutFrm.cs</DependentUpon>

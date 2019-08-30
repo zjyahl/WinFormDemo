@@ -15,7 +15,7 @@ namespace WinFormDemo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LayoutFrm());
+            Application.Run(new BindFrm());
         }
     }
 }
